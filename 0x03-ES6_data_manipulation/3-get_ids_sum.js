@@ -5,7 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * @author Yoseph Desalegn <https://github.com/Jo2831>
  * @returns {Number}
  */
 export default function getStudentIdsSum(students) {
